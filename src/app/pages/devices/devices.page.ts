@@ -1,0 +1,12 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-devices',
+  templateUrl: 'devices.page.html',
+  styleUrls: ['devices.page.scss']
+})
+export class DevicesPage {
+
+  constructor() {}
+
+}
